@@ -1,0 +1,1 @@
+unsigned long int get_mem(int flag);
