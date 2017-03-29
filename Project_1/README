@@ -1,0 +1,5 @@
+In this first project, we had to make one module and one syscall in order to get familiar with the internals of Linux kernel.
+
+In the first part we had to make a syscall, which will find and print the roots of the proccess which called this syscall. It prints out the id and the name of each proccess until it finds the init proccess with id 1.
+
+In the second part we had to make a module in order to get familiar with the compilation proccess. In this part we had to modify a little bit the block/noop-iosched.c module and save as our module and the compile it and check if it works as it was expected.
